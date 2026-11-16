@@ -1,1 +1,1 @@
-#Feature1 by Jayden 
+Feature1: Pattern and Sequence Detection by Jayden Montague
